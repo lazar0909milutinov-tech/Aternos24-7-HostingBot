@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": samostalni.aternos.me
+    "ip": samostalni.aternos.me",
     "port": 26387
     "version": "",
     "try-creative": false
